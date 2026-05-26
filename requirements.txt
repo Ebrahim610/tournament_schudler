@@ -1,0 +1,5 @@
+# Python dependencies for Tournament Scheduling project
+numpy
+matplotlib
+# Tkinter is part of the Python standard library (no install required)
+pandas
